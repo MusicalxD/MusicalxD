@@ -20,11 +20,14 @@
 <a href="https://www.youtube.com/channel/UC-MTiH3h0ePHwPxUN7bXf2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Musical" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=06f499&text_color=00f6fa&locale=en&layout=compact" alt="MusicalxD" /></p>
+<h3 align="left">Languages:</h3>
+<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/> </a><a 
+href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img src="https://botdesignerdiscord.com/logo512.png" alt="BDFD" width="40" height="40"/> </a> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=04f196&text_color=06dfef&locale=en" alt="MusicalxD" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark" alt="MusicalxD" /></p>
+
+**Cya ❤️**
+
+<p><img align="center" src="https://i.pinimg.com/originals/35/ce/9f/35ce9f85da291b4c1c504d8cbd37e8ee.gif" alt="cats" /></p>
