@@ -2,7 +2,9 @@
 <h1 align="center">Hi fellows, I'm Musical</h1>
 <h3 align="center">Someone who loves to explore codes and learn</h3>
 
-<p><img align="center" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" alt="wiggle" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MusicalxD&label=Vistors&color=09ec8a&style=flat-square" alt="MusicalxD" /> </p>
 
@@ -38,4 +40,6 @@ href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img sr
 
 <p><img align="center" src="https://i.pinimg.com/originals/35/ce/9f/35ce9f85da291b4c1c504d8cbd37e8ee.gif" alt="cats" /></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" alt="wiggle" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
