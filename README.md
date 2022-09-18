@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MusicalxD&label=Vistors&color=09ec8a&style=flat-square" alt="MusicalxD" /> </p>
 
+<p align="left"> <img src="https://dcbadge.vercel.app/api/shield/617836989672325151" alt="Musical" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MusicalxD" alt="MusicalxD" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Miozikal" target="blank"><img src="https://img.shields.io/twitter/follow/Miozikal?logo=twitter&style=for-the-badge" alt="Miozikal" /></a> </p>
