@@ -1,4 +1,7 @@
-![MasterHead](https://3.bp.blogspot.com/-blFLL1zlWBI/WEoldetgmEI/AAAAAAAAYH4/3Gd-XunvYFwzJxYewyyfUNa5Es8-ueWAQCLcB/s1600/music%2Bbanner%2Bgif.gif)
+<p align="center">
+  <img src="https://3.bp.blogspot.com/-blFLL1zlWBI/WEoldetgmEI/AAAAAAAAYH4/3Gd-XunvYFwzJxYewyyfUNa5Es8-ueWAQCLcB/s1600/music%2Bbanner%2Bgif.gif"/>
+</p>
+
 <h1 align="center">Hi fellows, I'm Musical</h1>
 <h3 align="center">Someone who loves to explore codes and learn</h3>
 
