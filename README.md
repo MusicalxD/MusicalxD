@@ -26,10 +26,11 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/> </a><a 
-href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img src="https://botdesignerdiscord.com/logo512.png" alt="BDFD" width="40" height="40"/> </a> 
+href="https://nilpointer-software.github.io/bdfd-wiki/nightly/" target="_blank" rel="noreferrer"> <img src="https://botdesignerdiscord.com/logo512.png" alt="BDScript" width="40" height="40"/> </a> 
 
 <h3 align="left">Tools:</h3>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a><a 
+href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img src="https://botdesignerdiscord.com/logo512.png" alt="BDFD" width="40" height="40"/> </a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=04f196&text_color=06dfef&locale=en" alt="MusicalxD" /></p>
