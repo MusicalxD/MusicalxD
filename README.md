@@ -25,6 +25,7 @@
 <h3 align="left">My Socials:</h3>
 <p align="left"><a href="https://twitter.com/Miozikal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MusicalxD" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-MTiH3h0ePHwPxUN7bXf2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Musical" height="30" width="40" /></a>
+<a href="https://discord.com/users/617836989672325151" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt="Musical" height="30" width ="40"></a>
 </p>
 
 
