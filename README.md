@@ -39,9 +39,9 @@
 <a href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> <img src="https://botdesignerdiscord.com/logo512.png" alt="BDFD" width="40" height="40"/></a>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=04f196&text_color=06dfef&locale=en" alt="MusicalxD" /></p>
+<p>&nbsp;<a href="https://github.com/MusicalxD"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=04f196&text_color=06dfef&locale=en" alt="MusicalxD" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark" alt="MusicalxD" /></p>
+<p><a href="https://github.com/MusicalxD"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark" alt="MusicalxD" /></a></p>
 
 **Cya ❤️**
 
