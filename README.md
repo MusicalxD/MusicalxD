@@ -43,6 +43,8 @@
 
 <p><a href="https://github.com/MusicalxD"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark" alt="MusicalxD" /></a></p>
 
+<p align="left"><a href="https://github.com/MusicalxD"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusicalxD&theme=blue-green"></a></p>
+
 **Cya ❤️**
 
 <p><img align="center" src="https://i.pinimg.com/originals/35/ce/9f/35ce9f85da291b4c1c504d8cbd37e8ee.gif"/></p>
