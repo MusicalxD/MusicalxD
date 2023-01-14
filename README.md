@@ -1,5 +1,6 @@
 <div align="center">
-![header](https://3.bp.blogspot.com/-blFLL1zlWBI/WEoldetgmEI/AAAAAAAAYH4/3Gd-XunvYFwzJxYewyyfUNa5Es8-ueWAQCLcB/s1600/music%2Bbanner%2Bgif.gif")
+
+![header](https://3.bp.blogspot.com/-blFLL1zlWBI/WEoldetgmEI/AAAAAAAAYH4/3Gd-XunvYFwzJxYewyyfUNa5Es8-ueWAQCLcB/s1600/music%2Bbanner%2Bgif.gif)
 
 # Hi fellows, I'm Musical
 
@@ -25,7 +26,7 @@
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusicalxD&theme=blue-green)
 
 <div align="center">
-# Cya ❤️
+Cya ❤️
 
 ![cat](https://i.pinimg.com/originals/35/ce/9f/35ce9f85da291b4c1c504d8cbd37e8ee.gif)
 
