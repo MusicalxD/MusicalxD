@@ -18,8 +18,7 @@
 
 - Fun fact **I will remain the same noob , i hope one day i become better at coding**
 
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=tokyonight&title_color=04f196&text_color=06dfef&locale=en)
+![top lang](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MusicalxD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 ![github-stats](https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark)
 
