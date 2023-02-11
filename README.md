@@ -23,7 +23,7 @@
 
 ![github-stats](https://github-readme-streak-stats.herokuapp.com/?user=MusicalxD&theme=dark)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MusicalxD&theme=blue-green)
+![MusicalxD Stats](https://github-readme-stats.vercel.app/api?username=MusicalxD&show_icons=true&theme=radical) 
 
 <div align="center">
 Cya ❤️
