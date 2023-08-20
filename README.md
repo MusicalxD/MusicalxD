@@ -4,6 +4,8 @@
 
 # Hi fellows, I'm Musical
 
+![profile](https://discord.c99.nl/widget/theme-2/617836989672325151.png)
+
 ## Someone who loves to explore codes and learn
 
 ![coloring](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
